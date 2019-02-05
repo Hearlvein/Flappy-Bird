@@ -7,6 +7,8 @@
 #include "MenuScene.h"
 #include "PlayScene.h"
 
+//// hi there
+
 enum GameStates {
 	MenuState,
 	PlayState
