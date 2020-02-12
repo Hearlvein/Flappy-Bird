@@ -1,10 +1,7 @@
 # Flappy-Bird
 
-Flappy Bird is a very simple retro game.
-A bird is flying with the effect of gravity and has to try getting through pipes to travel as far as possible.
+Flappy Bird is a very simple retro game:
+A flying bird has to go through the highest number of pipes.
+The difficulty is to time jumps and to dodge gravity.
 
-The code has been divided in to 2 types of files:
-  - headers
-  - implementations
-  
-Every couple of header-implementation class describes a class (object), except main.cpp which create the singleton object 'Game'
+The code is organized following the Object Oriented programming style.
